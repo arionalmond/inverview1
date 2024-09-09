@@ -64,7 +64,6 @@ func main() {
 			}
 		}
 
-		// (0, 1), (1, 0)
 		fmt.Printf("\ncord {%d,%d} \nresults: %v",
 			cord[x], cord[y],
 			result,

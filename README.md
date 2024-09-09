@@ -1,4 +1,13 @@
+# interview1
+This repo constains the golang solution for an tech coding interview question I had recently. How to run this solution and the prompt for the interview question are below.
 
+# 
+[online example](https://go.dev/play/p/0fML1L3z596)
+or have go installed locally and 
+run the following command in the root of this directory:  
+`go run main.go`  
+
+# interview prompt
 We are designing a 2D game and we have a game map that we represent by an integer matrix. For now, each cell can be a wall (denoted by -1) or a blank space (0).
 
 board = [
@@ -37,6 +46,3 @@ findLegalMoves(board, (0, 0)) =>
 
 findLegalMoves(board, (2, 2)) =>
   [empty]
-
-n: width of the input board
-m: height of the input board
