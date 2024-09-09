@@ -1,5 +1,5 @@
 # interview1
-This repo constains the golang solution for an tech coding interview question I had recently. How to run this solution and the prompt for the interview question are below.
+This repo contains the Golang solution for a tech coding interview question I had recently. How to run this solution and the prompt for the interview question are below.
 
 # 
 [online example](https://go.dev/play/p/0fML1L3z596)
